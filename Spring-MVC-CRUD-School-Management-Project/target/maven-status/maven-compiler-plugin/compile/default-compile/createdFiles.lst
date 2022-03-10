@@ -1,0 +1,8 @@
+emergon\entity\Trainers.class
+emergon\controller\TrainerController.class
+emergon\repository\HibernateUtil.class
+emergon\repository\TrainerRepo.class
+emergon\config\DatabaseConfig.class
+emergon\service\HomeService.class
+emergon\service\TrainerService.class
+emergon\controller\HomeController.class
