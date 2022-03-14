@@ -1,3 +1,6 @@
+Java-SpringMVC-CRUD-School-Management-System
+
+
 With that Programm we can use Java Spring MVC Framework to connect with database, Create, Read, Update, and Delete using Maven and Hibernate.
 
 
@@ -12,6 +15,6 @@ The database is the schoolmanagement.sql
 That project is very useful to getting familiar with MVC theory.
 
 
-Konstantinos Katsavaros
+Katsavaros Konstantinos
 
 
